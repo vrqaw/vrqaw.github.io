@@ -1,0 +1,789 @@
+HOME pAGE 1:
+Page Contents
+Last edited by
+notoke6969
+10/10/2025
+On the left you'll find a few helpful page links to guides, and our FAQ pages.
+
+Where do I start?
+Brand New to all of this? Check out the Getting Started Guide
+
+Looking for Rookie? Go to the VRP Downloads page
+What is Rookie?! How to: Rookie Sideloader
+
+Wiki Changes and Updates
+Your feedback is appreciated. Right now the easiest way to get in contact about a page's info is to submit it to the staff by using commenting below each page (except this one) or send a message within our Live Chats
+
+Our URLs
+The below URLs are SAFE and hosted by us!
+
+vrpirates.wiki
+vrpirates.club
+wiki.vrpirates.club
+DO NOT use the website rookiesideloader.com. It is not affiliated with VRPirates (VRP) and is considered malicious.
+¶Latest News
+2025-04-13
+Rookie 2.34.1 is now available.
+Get the release from VRP Downloads.
+
+2024-12-28
+Rookie 2.32.0 is now available.
+Get the release from VRP Downloads.
+
+2024-05-20
+Deprecation of Rookie-PCVR.
+Due to high server costs and low traffic, we regret to inform you that as of May 20, 2024, we will be shutting down the Free PCVR Mirror. We will continue to provide PCVR updates on our Private Mirror for those interested.
+
+2022-10-04
+Rookie 2.13 is released! This version includes a fundamental change to how we handle mirrors. Goodbye Google Drives, you will not be missed.
+With this release, VRP GUI no longer works with our Free Mirrors. You can still utilize VRP GUI if you have a Sponsored Mirror.
+
+Need Help?
+Check out our Live Chats!
+
+
+
+
+
+
+
+page 2
+How to Help Out
+Page Contents
+Talk
+Last edited by
+fenopy
+10/08/2024
+Thank you for realizing it takes a lot of work to run this service.
+
+We are all volunteers that pay out of pocket for servers and games to crack.
+
+Supporting the Servers
+It takes funds to keep servers up and running. If you'd like to donate via crypto, our Wallets and Accepted currencies are listed on the VRP Wallets page.
+
+Donating Games
+Contributing games helps a lot! If you'd like to donate a game, be sure to also buy DLC as often this is needed to have the "full" game for everyone.
+
+Donating is as simple as loading Rookie, which will automatically ask you if you'd like to upload the game to us. You can also use the "Share Selected App" button to save the game manually.
+
+Volunteering
+There are a lot of ways to help with your time:
+
+Assist new people with common issues on both Telegram and Discord
+Rookie code improvements. Check out the Git Repo for our current builds
+Backend Coding. Please fill out a Volunteer Form if you are interested.
+Testing Games. Please fill out a Volunteer Form if you are interested.
+Missing Games
+
+*This document contains two tabs, Missing Games and Outdated Games.*
+
+page3:
+Howto: Sponsored (VIP) Mirrors
+Page Contents
+Talk
+Last edited by
+frxctura
+05/29/2025
+How to: Sponsored (VIP) Mirrors
+You can help pay for the cost of a server for use with FTP or rclone-based tools (Rookie, RcloneBrowser/VRP GUI, Sidenoder).
+
+REMINDER- Payment is NEVER required to access the Free Quest Games Mirror.
+
+Speed: Our goal is to have gigabit links, but routing can affect overall speed. Please see the discord channel for links to speed tests for the mirror(s).
+
+Cost: $1 usd worth of crypto (we prefer BCH due to fees) for a month, maximum 6 months at one time. At the end of your paid months, you may renew for another 1-6 months, as desired.
+
+Please remember that YOU are responsible for any fees associated with the transaction!
+See the VRP Wallets page for all the addresses we currently have!
+Requirements: You must use Discord to DM us. We only accept the Cryptocurrencies listed on the VRP Wallets page. No paypal. No gift cards. No exceptions.
+
+Limitations: As more mirrors are added, each one will have different costs. Currently there is a 500GB fair use limit that resets every month from the day you started. The sponsored mirror carries all libraries.
+
+What's in it for me?
+That warm, fuzzy feeling
+A shared private server to direct-download our files
+An rclone configuration file that can be used with- rclone, rclonebrowser, vrp-gui, sidenoder, or any other utilities that utilize an rclone configuration
+A FTP Login for direct downloads using any FTP client
+Direct download access to all of our libraries
+A private Discord channel for assistance and news about the mirror
+First access to new releases (Public Mirror takes up to 24-hours to populate)
+Is the Sponsored Mirror FASTER than the Public Mirror?
+Technically, no. However if you are experiencing very slow speeds via the Public Mirror, then yes, the Sponsored Mirror may be faster.
+For reference, our Admins see around 80-100 MB/s via the Public Mirror and 40-60 MB/s via the Sponsored Mirror.
+How to get started:
+You send $1 to $6 USD worth to our Wallets based on the duration you want.
+Do not use Kraken, these are not wallets and will not provide you with a transaction ID!
+Cashapp users, please see the below instructions
+You send a DM via Discord to our new VRP-Bot with the command !verify
+If you aren't on our Discord server, you can find our Discord channel on our Live Chats Page! If you cannot DM the bot, please join the Discord channel and wait 10-minutes.
+If the bot does not respond immediately, verify you typed in the command correctly. It is !verify (Exclaimation Point Verify).
+If you have any issues or questions, please DM Maxine on Discord
+discord_botsample.png
+Check your DMs for a message from our Discord Bot. This bot will provide instructions as well as the configuration file used for the Sponsored Mirror!
+Check out the Sponsor Welcome page for more information on how to download and sideload!
+We add you to a private channel for news and chat related to the specific mirror you're on.
+Like everything else we do, you're directly helping to pay for costs for the mirror you're on. This means there is zero profit, we are not getting paid to do any of this.
+
+Cashapp Users
+
+To find your transaction ID you have to do some additional steps-
+
+Go to your activity page
+Click on the withdrawal after it has been completed
+Click on the "web receipt" at the bottom
+Scroll down and click on "View on Block Explorer"
+It should now state Transaction in big letters with the ID written in blue right under it and a little copy to clipboard button next to it to copy the ID.
+
+Attempts to abuse the Bot or Sponsor System will result in a BAN from our Live Chats.
+
+For additional questions, please join discord, and add your interest in the #self-roles channel. You will then be able to chat in a general discussion about sponsored mirrors.
+
+Comments
+
+© 2025 VRP. All rights reserved. | Powered by Wiki.js
+
+
+page 4:
+VRP Downloads
+Find all VRP Downloads here!
+
+Page Contents
+Tags
+Talk
+Last edited by
+frxctura
+05/16/2025
+VRP Downloads
+Don't know what these apps are? Head over to getting-started
+
+Rookie Sideloader
+Windows Download: rookie_2.34.1_portable.zip.
+The Rookie page has more information on how to use Rookie.
+
+More information on Rookie can be found on GitHub.
+
+Currently, our Free Mirrors require a file called "vrp-public.json" in the Rookie root directory to function. If you download Rookie from GitHub, the free mirror WILL NOT WORK until this file is added.
+
+Rookie PCVR
+As of May 20, 2024, Rookie-PCVR is now deprecated.
+
+The Rookie-PCVR Page has more information on how to use Rookie-PCVR.
+
+Rookie PCVR is a Downloader for our PCVR collection. This does NOT install PCVR games. Games will still need Extracting and/or Installation after downloading.
+More information on Rookie-PCVR can be found on GitHub.
+
+VRP Essentials 2.0 (VRPE)
+Windows Download: VRPE-Installer.exe
+VRP Essentials (VRPE) is our all-in-one pack of apps including:
+
+Rookie Sideloader
+VRP GUI [RcloneBrowser] (Sponsors Only)
+Our free servers utilize a new configuration that is not supported by VRP GUI (RCloneBrowser). At the moment, only our Sponsored Mirrors utilize the old-style Configuration Files.
+Shortcut Maker
+Please keep in mind this is a beta version for a new program, it may show bugs!
+The VRP Essentials page has more information on how to use VRPE.
+
+VRP GUI (Sponsors Only)
+Windows: vrp_gui_2022-10-01.zip
+Mac & Linux: https://github.com/kapitainsky/RcloneBrowser/releases
+The VRP GUI page has more information on how to use VRP GUI.
+
+Our free servers utilize a new configuration that is not supported by VRP GUI (RCloneBrowser). At the moment, only our Sponsored Mirrors utilize the old-style Configuration Files.
+
+Comments
+© 2025 VRP. All rights reserved. | Powered by Wiki.js
+
+
+page 5:
+How To: VRP Torrents
+Page Contents
+Talk
+Last edited by
+fenopy
+11/09/2024
+How to: Torrent Using Magnet Links
+Torrenting using magnet links is a popular method for downloading files over the internet. This guide will focus on the technical aspects of using magnet links using qBittorrent
+
+Step 1: Choose a Magnet Link
+First, you need to find a magnet link for the file you want to download. You can find our magnet links in this Telegram Channel or on this page on our wiki
+
+Step 2: Install qBittorrent
+If you haven't already, download and install qBittorrent from its official website: qBittorrent. qBittorrent is a free and open-source torrent client that supports magnet links.
+
+Windows: Visit the qBittorrent website, download the installer for Windows, and follow the installation instructions.
+macOS: Download the macOS version from the qBittorrent website and open the .dmg file to install.
+Linux: Most Linux distributions have qBittorrent available in their package repositories. You can install it using your distribution's package manager. For example, on Ubuntu, you can use sudo apt-get install qbittorrent.
+Step 3: Launch qBittorrent
+Open qBittorrent on your computer. You'll see the main interface, which includes a list of your current downloads, a list of completed downloads, and a search bar.
+
+Step 4: Add a Magnet Link
+To add a magnet link to qBittorrent, you can either:
+
+Click on it: Click on the magnet link on our wiki page, or open the link in your browser, it will automatically ask you to open qBittorrent.
+Drag and Drop: Drag the magnet link from your web browser into the qBittorrent window.
+Add the magnet links by pressing the "Open URL" button on the top left and putting in the links you want to torrent.
+Step 5: Start the download
+Once you've added the magnet link, qBittorrent will start searching for peers who have the file you're looking for. This process is known as "seeding." Once enough peers are found, the download will begin automatically.
+
+Step 6: Monitor your download
+You can monitor the progress of your download in the "Downloading" tab in qBittorrent. Here, you'll see information such as the download speed, the amount of data downloaded, and the estimated time remaining.
+
+Step 7: Access your downloaded file
+After the download is complete, you can find your file in the default download location set in qBittorrent. You can change this location in the settings if you prefer.
+
+Step 8: Sideloading your downloaded file
+Once you've finished downloading your file, you will most likely want to sideload it. You can use any sideloading application or do it manually.
+
+Rookie (Windows)
+Sidenoder (Windows, Mac, Linux)
+Manually (Windows, Mac, Linux)
+Android (Android Device)
+Additional Tips
+Seed: After downloading a file, consider seeding it. Seeding is the process of sharing the file with others who are still downloading it, making the network more stable and faster.
+Comments
+© 2025 VRP. All rights reserved. | Powered by Wiki.js
+
+
+
+page 6:
+How to: Enable Developer Mode
+
+Page Contents
+Talk
+Last edited by
+fenopy
+10/08/2024
+Turning Dev Mode On to connect via USB
+You just received your shiny new Oculus Quest and have found us. Now what?
+
+Make sure to set up your device for sideloading and enable adb access from your PC. Here is a guide to get started
+
+To allow installing apps & games to your headset, you must be recognized as a developer. To do this, you have to be a registered "developer" on the Oculus website. This process is free, quick, and easy to set up.
+
+Have you already enabled dev mode before but lost it? Is your “unknown sources” tab gone? Skip to step 3 and remove your phone/credit card and re-add it.
+
+New requirements in August 2021! If you previously verified, it does not matter. Please see the 3 methods at step 3, you MUST do one of these or it will not work!
+
+Step 1: Joining or Creating an Organization
+To create an organization, go to https://developer.oculus.com/manage/organizations/create/.
+Fill in the appropriate information.
+step1_createorganization.jpg
+Step 2: Verify Your Account
+Go to https://developer.oculus.com/manage/verify/.
+If prompted, log in with your Oculus Developer account.
+Verify your account with a credit/debit card or a phone number.
+If you want to use a phone number, you will need a pc with Bluetooth enabled.
+Make sure not to delete the verification method you used, or you will lose developer mode when you restart your headset.
+Step 3: Verify your Developer Account
+Once you belong to a developer organization, follow these steps to put your device in developer mode:
+note: if one does not work, try the other one
+
+Step 3 Option A: Phone Number (requires unlinked Oculus account)
+Verify your account here. If using a non-Facebook account (i.e., you have a Quest 1) you will have a different looking account verify page. It will say "Set up two-factor authentication". Add your phone number here.
+
+Step 3 Option B: Credit/Debit Card (requires mobile device)
+Verify your account by adding a CC here
+The card does not need to be in your name.
+
+verify-two-step.png
+
+Step 3 Option C: Phone Number (requires PC + Bluetooth)
+This is for if you verified with a phone number.
+
+In your headset, sign in to the developer account you want to use for development.
+Download ODH for your computer (Windows) or (Mac)
+Open it and press "Setup new device" in device manager
+odh-add-device.png
+Make sure Bluetooth is enabled on your PC, and you should see this screen. Press next on it.
+odh-setup.png
+Make sure the device is on and in range. Select your device, then press next when it says sign in with odh account.
+odh-select-device.png
+Select the wifi to use, then it should show this. Click enable developer mode.
+odh-developer-mode.png
+After that, it should show this below. Press Finish, then continue the steps below.
+odh-finish.png
+Step 4: Enable Developer Mode on your Headset
+In your headset, sign in to the developer account you want to use for development.
+Go to Menu, then Devices in the Oculus mobile app.
+Select your headset from the device list and wait for it to connect.
+Select Headset Settings
+Select Developer Mode
+Turn on Debug Mode
+step3_mobileenabledeveloper.jpg
+
+Comments
+
+© 2025 VRP. All rights reserved. | Powered by Wiki.js
+
+page 7:
+ow to: Use Rookie sideloader
+Rookie Sideloader
+If you still have not setup developer mode and connected with USB, please do that first. See enabling-dev-mode
+
+This app will automatically download and install Quest games. If for any reason this app is not working for you, it's always anti-virus. Just kidding (not really).
+
+Download current version
+The current version of Rookie can be found on the VRP Downloads page.
+
+Create a folder for Rookie Sideloader (RSL)
+To run properly, Rookie must be extracted to a non-Protected folder on your drive. We recommend moving Rookie to C:\RSL\Rookie. Do Not use folders such as- C:\Users, C:\Program Files, OneDrive, Google Drive, etc...
+Make sure to exclude the folder from antivirus scanning
+Rookie may be identified as a trojan by antiviruses, however this is a false flag, for more info, see this page.
+howto-rookie-av.jpg
+Extract the Rookie release ZIP file to the folder, so the path to Rookie would be C:\RSL\Rookie\AndroidSideloader.exe.
+Run Sideloader Launcher.exe or AndroidSideloader.exe.
+Rookie Sideloader now has auto-upload features. If prompted, we'd appreciate game donations as this is the primary source of cracked games.
+
+For further help please see our live support options.
+
+How to Use
+Double-click either the AndroidSideloader.exe or Sideloader Launcher.exe file to launch Rookie.
+Browse the extensive library of games and apps available for sideloading.
+Choose the game you want to install on your Oculus Quest and click on it
+Click the "Download and Install Game/Add to Queue" button to initiate the download process.
+Patiently wait for Rookie to complete the download, extraction, and installation of the selected game.
+Upon successful installation, a notification will appear indicating the completion of the process.
+Feature Overview
+rookie_overview.jpg
+
+The dropdown at the top is for working with games already installed on your Quest.
+To Share (Donate) a game to VRP, select it from the dropdown, then click Share Selected App.
+To Remove (Uninstall) a game from your Quest, select it from the dropdown, then click Uninstall Selected App.
+To Extract an app from your Quest, select it from the dropdown, then click Pull App to Desktop.
+This is your Device Serial Number. It will appear when your device is connected properly. Use the MOUNT button to connect your device to your file explorer. (this usually happens automatically and is not required to be pressed).
+This will indicate which Mirror you are connected to. If you are using the Free Public Mirror, it will say Public Mirror. If you are using a different mirror, such as the Sponsored Mirror, it will indicate the Mirror Number.
+Use this button to quickly Disable or Enable Sideloading (installing).
+If you Disable Sideloading, Rookie will only download games.
+This is the main Gamelist, and where you can find all of the Games available for download.
+Use the headers (Game Name, Release Name, etc) to sort games.
+Looking for a specific game? Use the Search Bar!
+Wondering if a game you installed has an update? It will be indicated here!
+Up to Date: These games on your Quest are already on the latest version.
+Update Available: A newer version is available to be downloaded and installed.
+Newer Than List: The version on your Quest is newer than what we have. Use the Share Selected App button to share it with us!
+This is the Download button! You can also Double-click games in the gamelist to add them.
+The progress of your download is displayed here, along with the ETA, Download Speed, and number of Parts remaining.
+Why are games in parts? Our Public Mirror files are split into multiple parts.
+This is your Download Queue. Click on a game to remove it.
+Sometimes we include notes with a game. This may be special instructions or general information about installing this game.
+At the bottom of Rookie, it will display the current status of whatever it is doing.
+The bottom left corner displays information about your Quest when it is connected.
+Use the Settings button to change different options within Rookie.
+A: By default, Rookie will Download, Install, and Delete the downloaded game files to save space on your PC. Uncheck this box to keep the downloaded files on your PC.
+B: Prefer Trailers? This will switch the Thumbnails below the Gamelist into Trailers from YouTube. (Note: Trailers are found using a fuzzy-search on YouTube and may not be the proper trailer)
+C: Having issues with downloads going slow or failing? Try toggling Single-Threading. This can help with certain internet connections. Rookie will download 1-file at a time instead of trying to do multiple.
+D: Trying to use the Sponsored Mirror? Turn off the Config Update option to prevent Rookie from overwriting your Private Configuration.
+Additional Features
+This will cover any important features a user might want to know.
+
+Remove Queue Items
+Clicking on an item in the Queue will remove it from the Queue, the first item is not removeable if there are more than one.
+
+Drag and Drop
+You can drag and drop APK files onto Rookie to automatically sideload them. You can also drag-drop entire folders with APK+OBB files and Rookie will handle them like normal.
+
+Settings > Enable Single-Threading
+This tells Rookie to download one file at a time, useful for weaker connections.
+
+Settings > Virtual Filesystem Compatibility
+This allows Rookie to download onto paths like Google Drive, OneDrive, etc.
+
+Sideload Category Sidebar & Backup/Restore Category Sidebar
+Hover over any of the buttons in these categories, they'll tell you what they do.
+
+Pressing F1
+This will show you a list of shortcuts that you can use within Rookie.
+
+Offline Mode
+If mirrors aren't working, you can still sideload by creating a shortcut for Offline Mode.
+
+Once you're in offline mode, with your quest connected, you can install games by dragging the folder containing the apk and (if the game has them) subfolder with obb's and dropping it onto Rookie's window.
+
+Newer verions include a batch file to launch in Offline Mode. Run "Rookie Offline.cmd" or create a regular shortcut to it.
+rookie_offline_mode_batch.png
+Create a shortcut like any Windows app to "Android Sideloader vX.X.exe", and then add --offline to the end.
+ 
+rookie_offline_mode.jpg
+Rookie on Mac/Linux
+Rookie only runs on Windows.
+Don't have Windows? Check out this page for more alternatives.
+
+Using a Sponsored Mirror Config File
+Open Rookie in Offline Mode using the Rookie Offline.cmd batch file we provide.
+In Rookie, click on Settings, then uncheck "Update Public Config Automatically", then click Apply Settings. Close Rookie.
+In your Rookie folder, double-click the rclone folder and paste in your vrp.download.config file.
+If you do not have an rclone folder, create it.
+Open Rookie again. Rookie should download the assets it needs to function.
+If you get a popup stating Public Config Missing, Click No.
+You can verify you are on the Public Mirror by looking at the Mirror # dropdown, it should say Mirror #01.
+rookie_sponsored_config.jpg
+
+Comments
+© 2025 VRP. All rights reserved. | Powered by Wiki.js
+
+
+page 8:
+Howto: Use a launcher instead of Unknown Sources
+Page Contents
+Talk
+Last edited by
+fenopy
+10/08/2024
+Below are different App Launchers for your Quest.
+Some may work, some may not, some may have customizations, some may not.
+The World is your oyster.
+
+Evolve Launcher (in Rookie)
+Elevating Your Oculus VR Experience with a 2D Interface, in Tribute to lvonasek's piLauncher
+https://github.com/JarJarBlinkz/Evolve_Launcher
+
+Lightning Launcher (in Rookie)
+LightningLauncher is a launcher designed for Oculus Quest that supports both official and sideloaded apps and games.
+
+It has been built with a focus on speed, flexiblity, and convenience.
+
+https://github.com/threethan/LightningLauncher
+
+To use the Lightning Launcher via Shortcuts:
+
+Open Settings -> Shortcut Settings to set up shortcuts
+You can set Lightning Launcher to open from the app Library, Explore, People, and/or Facebook icons
+Use multiple shortcuts to open multiple windows of Lightning Launcher at once
+Quest App Launcher
+An app launcher for Quest implemented in Unity
+https://sidequestvr.com/app/199/quest-app-launcher
+
+Quest App Launcher with custom assets
+A Community Member has made Quest App Launcher with Custom Asset files
+https://www.reddit.com/r/QuestPiracy/comments/10v0dec/quest_app_launcher_with_custom_assets_autoinstall/
+
+Quest Games Optimizer (QGO) [Paid]
+https://anagan79.itch.io/quest-games-optimizer
+
+What is Quest Games Optimizer?
+QGO is a native unofficial Meta Quest tool that allows users to use the full potential/performances of their Meta Quest without being restricted. It is an app launcher that gives you the ability to tweak each of your games to make them graphically better or smoother or to save battery and to tweak the video recording settings. => QGO Features
+
+Comments
+© 2025 VRP. All rights reserved. | Powered by Wiki.js
+
+
+
+page 9:
+VRP GUI (RcloneBrowser) setup guide
+Page Contents
+Talk
+Last edited by
+fenopy
+10/08/2024
+VRP GUI (RcloneBrowser)
+This app lets you download directly from the server (does not install).
+
+Our new servers utilize a new configuration that is not supported by VRP GUI. At the moment, only our Sponsored Mirrors (VIP) can use VRP GUI.
+
+Note: VRP GUI is also included in VRP Essentials, our suite of sideloading and downloading tools. See the VRP Downloads page.
+
+Download current version:
+The current version of VRP GUI can be found on the VRP Downloads page.
+You can also download versions for Mac and Linux via the VRP Downloads page
+
+Create a folder for VRP GUI
+Make sure to exclude the folder from antivirus scanning
+Extract this zip file to the folder
+Place your vrp.download.config file in your VRP GUI folder
+Run RcloneBrowser.exe
+How to use
+Double click one of the mirrors.
+Find what you want to download.
+Select the folder then right-click and press download.
+On destination, you can pick where you want to download it to.
+Press 'Run' to download.
+Check the download job in the Jobs tab. If you get an error, expand the job by clicking the arrow next to the word Error, and do the same for "Show Output". If 'download quota exceeded' message, select a different mirror, then try again.
+For further help please see our live support options.
+
+See third party rclone configs for additional working servers to connect to.
+
+page 10:
+Howto: Sideload Manually
+Page Contents
+Talk
+Last edited by
+frxctura
+12/16/2024
+Manual Sideload using ADB for Oculus Quest
+Sideloaders leverage adb (Android Device Bridge) to perform various tasks on Android devices, including the Oculus Quest. If you're familiar with technical terms like adb and terminal commands, here's a guide on how to manually sideload content onto your Oculus Quest from a PC.
+
+Prerequisites
+Check ADB Installation:
+Open a command prompt and type adb. If the command is not recognized, download the Android SDK from Google, install it, and reboot your PC.
+Verify Connection:
+Confirm the connectivity with your Oculus Quest by typing adb devices in the command prompt. Ensure that your Quest is listed as an Android device, and it is not labeled as "unauthorized."
+Sideloading Steps
+Step 1: Install the APK file
+Navigate to the folder containing your APK file using the command:
+cd path\to\your\APK\folder
+Install the APK with the following command, instructing adb to install over the old version and grant necessary permissions:
+adb install -g -r your_file.apk
+Note: This is what SideQuest doesn't do, which can cause problems
+Step 2: Copy the OBBs
+Use the adb push command to copy the OBB files to your Quest. Suppose your game is named "VRP Adventures" with an APK and a folder (typically starting with com.), e.g., com.vrpirates.advent. Run the commands:
+
+adb shell mkdir "/sdcard/Android/obb/packagename" (in this example "com.vrpirates.advent")
+adb push com.vrpirates.advent /sdcard/Android/obb/
+This copies the folder directly to your Quest.
+
+If encountering issues with the game, like loading problems, consider trying to mount the Quest with RSL and manually copying the OBB folder from Windows Explorer.
+
+Step 3: Run any post-install script
+Some games may require additional steps beyond the typical installation. Check for an install.txt file with instructions for sideloading. Execute any commands mentioned in these text files.
+
+For games with many files, a folder might be zipped.
+In some cases (e.g., Beat Saber), there might be two APKs to handle.
+Sometimes there is another location where the game wants files.
+Remember to consult and follow any provided instructions for a smooth sideloading experience.
+
+Comments
+
+
+
+page 11:
+How to: Sidenoder
+Install instructions for sidenoder
+Page Contents
+Talk
+Last edited by
+fenopy
+10/08/2024
+Sidenoder
+How to use
+Download Sidenoder for your platform. You can do so by going here: Sidenoder Github
+Original Source: Sidenoder
+
+Ignore the RCLONE error, Sidenoder attempts to connect to mirrors that do not exist anymore.
+SCRCPY is also not a requirement and can be ignored.
+
+To install games, simply make sure your device is connected by checking the top right for a green "DEVICE | connected"
+
+Afterwards, go to your game folder & drag and drop your APK file into Sidenoder.
+
+If there is a folder alongside (usually beginning with com.) your APK file in your game folder, move it into your headset in: /internalstorage/android/obb
+
+image.png
+
+Attention: If your game folder has an install.txt file, this means you need to do additional steps. See the manual sideloading guide, step 3, for more details. Sidenoder does not complete this.
+
+Adding Sponsored Mirrors to make Sidenoder work.
+Download your Sponsored Mirror config you were given.
+Place the file anywhere in a folder somewhere.
+Open Sidenoder, under Settings, change "Path Config" to the your config file.
+That's it! Upon opening sidenoder again you should now be able to mount the games using the Mount button and see all the games in the Remote tab.
+
+page 12:
+Android Downloading and Sideloading Guide
+How to download games and sideload them onto your quest.
+Page Contents
+Talk
+Last edited by
+fenopy
+10/08/2024
+Download and Sideloading Games from Android
+This approach is somewhat complex, and you might encounter challenges that require you to troubleshoot on your own.
+
+You cannot download games from our Free Mirror using Android.
+
+What you need
+You will need developer settings enabled on your phone for this to work, enable USB debugging in developer settings
+You'll also need a physical connection between both devices for example: USB C to C (depends on the charging port of your phone)
+Sponsored Mirror and Bugjager
+Downloading
+For downloading games, you may use RCX or any FTP client alongside your Sponsored Mirror Configuration or FTP Credentials
+
+Sideloading
+Before Sideloading
+On your Android Device, access your device's settings, then navigate to "Software Information." Locate the build number, which is typically displayed alongside your Android version and Kernel version. Continuously tap on the build version until you receive a notification indicating that you have become a developer.
+
+Afterward, return to the main settings page, and you should notice a new menu item called "Developer Settings." Open this menu and locate the option for USB debugging. Enable it.
+
+Step 1
+Connecting your Device
+Launch Bugjager and connect your phone to your Quest using a cable. Ensure you accept all prompts that appear on your phone's screen and then wear your Quest, accepting any prompts that appear there as well. Don't forget to choose "Always allow from this device" when you see the USB debugging prompt.
+
+Step 2
+Installing the App / APK
+To access the packages section within the Bugjaeger app, click on the plus icon at the top, and then select "Choose APK file." You will be redirected to your phone's file explorer. Browse to the directory where you saved the APK file (the location you chose during your RCX instance or FTP Client download), and choose the APK. Wait patiently for the installation process to complete; it may take a moment.
+
+Step 3
+Copying the OBB folder (if supplied)
+Navigate to the location where you've downloaded the game folder using your RCX instance or FTP Client of choice. Open the specific game folder you wish to install, and then access the OBB folder, which typically starts with "com." Copy the name of this folder.
+
+Next, within Bugjaeger, access the built-in file viewer and navigate to "sdcard ->/storage/self/primary." Open the Android folder and then the OBB folder. Create a new folder with the same name as the one you copied earlier (starting with "com.") by tapping the folder icon at the bottom right of the screen. Open this newly created folder.
+
+Now, tap the upload icon at the top of the screen and locate the location of the "com." folder. Upload the files contained within it. Be patient as Bugjaeger processes the upload; this may take several minutes. You'll know it's finished when the file feed refreshes.
+
+That's it! If you've followed these steps correctly, you should be able to disconnect your headset from your phone and play the games. Please note that these games will appear under "unknown sources" rather than in your regular game library.
+
+Using VRP Torrents
+These steps can be done on your Quest Headset or on an Android Device.
+
+Download and Install 1.1.1.1 WARP
+Download and Install Flud Torrent Downloader
+Go to Unknown Sources and open 1.1.1.1 WARP. Enable the VPN.
+Go to torrents.vrpirates.wiki
+Hold down trigger on the game you want and copy link
+Open the flud app and click on the magnet in the top right.
+Long click on what where is pasted into the " add magnet link " and cut it.
+Long click again and paste the link you got from torrent
+Once the download is finished-
+Downloaded using an Android Device?
+Follow the Android Sideloading Steps to install the game.
+Downloaded on your Quest?
+Use Shizuku and MT Manager to Install APKs and Copy OBBs
+
+
+page 13:
+FAQ: Sideloading
+Page Contents
+Talk
+Last edited by
+frxctura
+01/24/2025
+General
+Should I block Facebook telemetry?
+Blocking telemetry is a pretty bad idea. Wait, no, it's a HORRIBLE idea. It's best that you DON'T attempt to block telemetry on your headset. By doing this, you are pretty much bricking your headset; you won't be able to access any Oculus service at all within the headset. Most wifi-enabled features will also be downright disabled, and it may even result in anomalous system software glitches.
+
+Also, in the personal opinion of a large portion of the QuestPiracy community, you are marking yourself as a target for any possible punishment. As much as you attempt to block, certain log sending functions are HARDCODED into the Quests firmware if you connect to wifi but block telemetry, so Facebook may know that you're blocking telemetry anyway. Which could get you flagged for some form of punishment in the future. So to any paranoid privacy sticklers, I'd just bite the bullet and not block telemetry.
+
+If you, however, want to block these following domains in your router or a pi-hole device to throw off further tracking from oculus apps and services, you can. Just know that it might break stuff or cause bad experiences.
+
+oculus.com oculuscdn.com facebook-hardware.com facebook.net facebook.com fbcdn.com fbsbx.com fbcdn.net fb.me fb.com crashlytics.com
+
+You can also block graph.facebook.com but this will break apps like Oculus venues.
+
+As suggested from reddit user Engok. An easy alternative to setting a pi-hole is by using NextDNS.
+
+Create an account, add the domains above to the denylist, and set the given link as your private DNS under the advanced network settings in the Android settings app.
+Settings App for Quest 1 & Quest 2
+
+He recommends fiddling around with the other settings, particularly turning off logs and turning on all three performance features (to minimize DNS requests made). It's also pretty handy as an adblocker if you set it up correctly.
+
+What happens if Oculus flags/blacklists my account for piracy?
+This is all speculation as no one has been banned yet, but some people believe that they have a mechanism to flag your account for piracy and then generate a token file in your Quest (called a killswitch_token). As long as this killswitch token presents in your device, it will be impossible to enable the developer mode (since when you connect your phone app to enable developer mode, it will check the presence of the token in Quest). You can use your device further with a new account or a test account (https://developer.oculus.com/distribute/test-users/) but cannot enable developer mode anymore and cannot sideload anything through adb.
+
+This was found from reverse engineering the firmware.
+
+Is Rookie a Virus?!?
+No it’s not! Unfortunately many applications that can alter files (downloading, extracting) get falsely detected as a Virus. All of our applications are open source and you can find their repos on Github linked below.
+
+Rookie	https://github.com/VRPirates/rookie
+Rookie-PCVR	https://github.com/VRPirates/rookie-pcvr
+VRPE Installer	https://github.com/VRPirates/VRPE
+Sidenoder	https://github.com/vKolerts/quest-sidenoder
+rclone	https://github.com/rclone/rclone
+Sideloading Quest Games
+I've sideloaded my first game.  Where do I go to launch it?
+After sideloading a game, you must access it via "Unknown Sources" within your Applications.
+
+Current way to access unknown sources:
+unknownsources.png
+
+Alternatively, you may use a "Launcher" to view your games.
+Example Launchers include Pi Launcher, Quest App Launcher, Quest App Hub
+
+Will I be banned for pirating games?
+No. Not a single person has been banned or punished in any way for piracy on the Quest 1 or Quest 2. So, you're safe to pirate as much as you want, all while connected to Wi-Fi, all on your main Facebook account.
+
+You CAN get banned, but ONLY by creating alternate Facebook accounts, as this is against Facebook's Terms of Use.
+
+I have a black screen or stuck loading screen when launching a gam
+Check to see if your game came with an OBB folder. The folder should start with 'com.' and inside it should contain one or more files. Place the folder inside /Android/obb on your Quest using the 'Mount' button in Rookie, SideQuest, or ADB.
+obb-example.png
+
+What are OBB files?
+An OBB is a folder of extra files that the game can load. So, instead of reading a giant 4GB APK file, a game can divide its content into manageable pieces if it's large.
+
+If a game 'has OBB files', it contains files inside an OBB folder, which will be named after the package name for that game. For instance, it will look something like 'com.publisher.GameName' for a game called 'Game Name'. It doesn't necessarily have to contain .obb files, but that's often the case.
+
+Do I need to sync OBB files?
+If the OBB Folder exists, yes.
+
+How do I update a Quest game?
+Just install the new version over the old version. Do not uninstall. Your save games are safe if you follow this simple step
+
+Is it safe to play cracked Quest games with multiplayer online?
+No one knows for sure. Oculus definitely tracks your app's usage through telemetry, analytics, and other means, and there is no way to prevent them all. You can log into your Oculus account in the browser and visit this URL to see your tracked data (they obviously do not show everything here). We recommend playing it safe and proceeding at your own risk.
+
+Why is Unknown Sources not showing on my Quest?
+Make sure you have developer mode enabled. And your developer account is verified.
+See Enabling developer mode for more info.
+
+SideQuest: Can I use SideQuest to install games?
+No, please do not use SideQuest for sideloading pirated content. SideQuest has anti-piracy measures, and we will NOT help you with any SideQuest-related problems.
+
+How do I change app icons and names from Unknown Sources section?
+Technically you cannot.
+However Launchers may help you
+
+With developer mode enabled I still cannot get ADB to work?
+The first thing to do is to check that Developer Mode is still turned on in the mobile/PC app. Sometimes it gets disabled for no discernible reason.
+
+If Developer Mode is still on; completely uninstall all Oculus Devices from Device Manager in Windows. Delete drivers if asked. You may need to enable "Show hidden devices" under the "View" menu.
+
+Then, download Quest drivers from Oculus here and install. Reboot.
+
+If the above doesn't work, try disabling Developer Mode from the Oculus mobile/PC app first, then restart the headset and re-enable Developer Mode.
+
+How do I Install a Game on a Different Account?
+Transferring Games requires using ADB and Command Line. Below are the commands you would use.
+
+Get a List of Installed Users
+adb shell pm list users
+Get a List of Apps Installed
+adb shell pm list packages -3
+Transfer App to Another Account
+adb shell pm install-existing --user account_number package_name
+replace account_number with the UserInfo{# you want the package installed to.
+replace package_name with the already installed package name on your device
+Other Questions
+How do I disable Firmware Updates on my Quest?
+Press CTRL+R in Rookie and send this command-
+shell pm disable-user --user 0 com.oculus.updater
+
+If successful, you should see the following message-
+adb_disable_updates.jpg
+
+How do I turn Firmware Updates back on?
+Press CTRL+R in Rookie and send this command-
+shell pm enable com.oculus.updater
+
+Can I use Game Trials/Demos and still Pirate the game afterwards?
+Usually... No. The Meta Store has 2 different types of free installs, a Demo and a Trial. Demos do not install the official game and are not tied to your Meta account and therefore do not impact sideloading the full game later.
+However Trials ARE tied to your account, and your Quest will not allow sideloading a package with the same name. The only way to install a game you have Trialed is to rename the package to something different, so your Quest doesn't recognize it.
+You can manually rename a package following this guide on How to Change an APK Package Name. There is also a took called Phunk that can automatically do this for you.
+
+Why do some Mixed-Reality (MR) Games not work?
+The reason MR fails, is because the APK signature does not match the APK signature from the Store. Meta is checking your installed game (our release) versus their own release and this is throwing a flag that tells MR not to initialize.
+When a renamed APK is used, this flag is thrown once again, but triggers a "not found" flag, and throws the MR-system into a developer mode, allowing it to work.
+
+So... Can I rename an APK myself?
+Sure, nothing is stopping you. Please be aware that game updates will not be detected and game saves will not transfer when updating unless you once again rename and reinstall the updated package with your custom name. You can find more information on renaming Packages within this FAQ.
+We do ask that you refrain from donating these modified APKs, as they just throw more complexity into processing donations and will be immediately deleted anyway.
+
+So what next?
+We are continuing to look into potential fixes, and know that you, the community, are too. If you have any information or have success bypassing these issues, feel free to reach out so we can look into it further. Hopefully in the future we can find a fix for all games.
+
+What about these MR-Fix games?
+We have provided games with a Mixed Reality Workaround for users to download, however this isn't without risk.
+Your headset can see you are using an invalid game, but allows MR to operate, since it doesn't really know what application you are using.
+
+So what is the risk?
+The risk is thousands of users suddenly using mr.fix.game and Meta deciding to do something about it.
+We do not know if Meta actually tracks this information or would actually do anything about it. This is the risk you take, however it has been done for years with "Beat Paber".
+
+What is the difference between -QU, -VRP, -FFA, -NIF etc...?
+The only difference between them is the group that cracked the game.
+
+PCVR Questions
+Can I sideload PCVR games onto my headset?
+No, you cannot sideload PCVR games on your headset, you can only play them with a PC.
+
+How safe is playing PCVR games with cracks/emulators using Oculus Link?
+PCVR is fair game for all, and Oculus doesn't care much about piracy over there. However, I must warn you that the Oculus Home app logs a lot of unnecessary info about your computer usage (including the titles of the opened windows, running background services, etc.). If you want to block all those info, find the log directories from Oculus in Appdata and change directory permissions so that no one can have write access to those folders. This will prevent them from collecting/sending logs about your PC usage. Apart from that, playing pirated PC VR games is generally safe.

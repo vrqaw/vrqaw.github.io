@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quest Archive Wiki | FAQ</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+</head>
+<body>
+    <div class="bg-glow" id="bg-glow"></div>
+    <div class="app-container">
+        <aside id="sidebar">
+            <div class="brand"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>Quest Archive</div>
+                        <nav id="nav-list">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="downloads.html">Downloads</a></li>
+                    <li><a href="getting-started.html">Getting Started</a></li>
+                    <li><a href="dev-mode.html">Developer Mode</a></li>
+                    <li><a href="rookie.html">Rookie Sideloader</a></li>
+                    <li><a href="vrp-gui.html">Quest Archive GUI Setup</a></li>
+                    <li><a href="sponsored.html">Sponsored Mirrors</a></li>
+                    <li><a href="torrents.html">Quest Archive Torrents</a></li>
+                    <li><a href="manual-sideload.html">Manual Sideloading</a></li>
+                    <li><a href="sidenoder.html">Sidenoder Guide</a></li>
+                    <li><a href="android.html">Android Guide</a></li>
+                    <li><a href="launchers.html">Alternative Launchers</a></li>
+                    <li><a href="information.html">Wiki Information</a></li>
+                    <li><a href="help.html">How to Help Out</a></li>
+                    <li><a href="faq.html">FAQ: Sideloading</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <main id="content">
+            <section>
+                <div class="badge">Help</div>
+                <h1>FAQ: Sideloading</h1>
+                <div class="card">
+                    <h2>Facebook Telemetry</h2>
+                    <p>Blocking telemetry is a <span class="highlight">HORRIBLE</span> idea. It may brick your headset services. Byte the bullet and proceed with caution.</p>
+                    <div class="image-container">
+                        <img src="images/unknownsources.png" alt="Unknown Sources Access" class="wiki-img">
+                    </div>
+                    <h2>Bans</h2>
+                    <p>No one has been banned for piracy on Quest 1 or 2 yet. You're safe on your main account for now.</p>
+                    <h2>Black screen or stuck loading</h2>
+                    <p>Check if your game came with an OBB folder. Place the folder inside <code>/Android/obb</code>.</p>
+                    <div class="image-container">
+                        <img src="images/obb-example.png" alt="OBB Example" class="wiki-img">
+                    </div>
+                    <h2>Disable Firmware Updates</h2>
+                    <p>Press <code>CTRL+R</code> in Rookie and send this command: <code>shell pm disable-user --user 0 com.oculus.updater</code></p>
+                    <div class="image-container">
+                        <img src="images/adb_disable_updates.jpg" alt="ADB Disable Updates" class="wiki-img">
+                    </div>
+                    <h2>Is Rookie a Virus?</h2>
+                    <p>No, it's open source! Detecting tools as viruses is a common false positive.</p>
+                </div>
+            </section>
+            <footer>
+                <p>&copy; 2025 Quest Archive. All rights reserved. | Powered by Wiki.js</p>
+            </footer>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
