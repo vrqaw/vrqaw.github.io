@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quest Archive Wiki | Sponsored Mirrors</title>
+    <title>Quest Archive Wiki | Extract APK</title>
     <link rel="stylesheet" href="style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
 </head>
@@ -12,7 +12,7 @@
     <div class="app-container">
         <aside id="sidebar">
             <div class="brand"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>Quest Archive</div>
-                                    <nav id="nav-list">
+                        <nav id="nav-list">
                 <ul>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="downloads.html">Downloads</a></li>
@@ -35,22 +35,28 @@
         </aside>
         <main id="content">
             <section>
-                <div class="badge">Premium</div>
-                <h1>Sponsored (VIP) Mirrors</h1>
+                <div class="badge">Advanced</div>
+                <h1>How to extract an APK directly from your headset</h1>
                 <div class="card">
-                    <p>You can help pay for the cost of a server for use with FTP or rclone-based tools (Rookie, RcloneBrowser/Quest Archive GUI, Sidenoder).</p>
-                    <p>REMINDER: Payment is <span class="highlight">NEVER</span> required to access the Free Quest Games Mirror.</p>
-                    <h2>Cost & Requirements</h2>
-                    <p>Cost: $1 USD worth of crypto (BCH preferred) for a month. You must use Discord to DM us. We only accept the Cryptocurrencies listed on the Quest Archive Wallets page.</p>
-                    <h2>How to get started</h2>
+                    <p>This guide explains how to extract an APK from your headset onto your PC without using Rookie Sideloader.</p>
+                    
+                    <h2>Requirements</h2>
+                    <ul>
+                        <li><span class="highlight">ADB</span>: Android Debug Bridge installed on your PC.</li>
+                        <li>Quest has <span class="highlight">Developer Mode</span> enabled.</li>
+                        <li>A USB cable to connect to your PC.</li>
+                    </ul>
+
+                    <h2>Directions</h2>
                     <ol>
-                        <li>Send $1 to $6 USD worth to our Wallets based on duration.</li>
-                        <li>Send a DM via Discord to our new Quest Archive-Bot with the command <code>!verify</code>.</li>
-                        <li>Check your DMs for instructions and the configuration file.</li>
+                        <li>Open a terminal in your ADB directory.</li>
+                        <li>Plug your headset into your PC.</li>
+                        <li>Run <code>adb shell cmd package list packages</code> to find the package name.</li>
+                        <li>Once identified, run <code>adb shell pm path &lt;PACKAGENAME&gt;</code> to get the file path.</li>
+                        <li>Run <code>adb pull &lt;PATH&gt; &lt;DESTINATION&gt;</code> to copy the file to your PC.</li>
                     </ol>
-                    <div class="image-container">
-                        <img src="images/discord_botsample.png" alt="Discord Bot Sample" class="wiki-img">
-                    </div>
+
+                    <p><span class="highlight">Note</span>: Split APKs and those with OBB files have not been fully tested yet. YMMV.</p>
                 </div>
             </section>
             <footer>
